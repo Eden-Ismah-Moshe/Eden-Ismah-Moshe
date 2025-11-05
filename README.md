@@ -1,13 +1,31 @@
-"If you can dream it, you can do it" - Walt disney
+*"If you can dream it, you can do it." – Walt Disney*
 
-Hi there 👋, my name is Eden Ismah-Moshe
-I am a software developer and I have a B.Sc in Computer Science.
-Over the past almost year, I have been working as a Full-Stack Developer.
+### Hi there 👋, I'm **Eden Ismah-Moshe**  
 
-Skills: React, Vue, JavaScript, Node.js, NextJS
+💻 I'm a **Software Developer** with a **B.Sc. in Computer Science**, passionate about building impactful and user-friendly web applications.  
+Over the past year, I’ve been working as a **Full-Stack Developer**, creating modern, responsive, and dynamic products using both frontend and backend technologies.
 
-🔭 I’m currently working on a cool project!
-📫 How to reach me: eden12012@gmail.com
+
+🛠️ Tech Stack & Skills:
+
+  React, Vue, JavaScript, Node.js, Next.js, MongoDB, PostgreSQL.
+
+
+
+🚀 What I'm Up To
+
+- 🔭 Currently working on a **cool project**.  
+- 🌱 Constantly learning and improving my skills in **modern development**.  
+- 💡 I love solving real-world problems through clean code and creative solutions.  
+
+
+📫 Get in Touch
+
+  📧 **Email:** [eden12012@gmail.com](mailto:eden12012@gmail.com)  
+  💼 **LinkedIn:** [https://www.linkedin.com/in/edenim/](https://www.linkedin.com/in/edenim/)
+
+⭐ *“Keep pushing forward, one commit at a time.”*
+
 <!--  
 **Eden-Ismah-Moshe/Eden-Ismah-Moshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
