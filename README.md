@@ -1,6 +1,14 @@
-## Hi there 👋
+"If you can dream it, you can do it" - Walt disney
 
-<!--
+Hi there 👋, my name is Eden Ismah-Moshe
+I am a software developer and I have a B.Sc in Computer Science.
+Over the past almost year, I have been working as a Full-Stack Developer.
+
+Skills: React, Vue, JavaScript, Node.js, NextJS
+
+🔭 I’m currently working on a cool project!
+📫 How to reach me: eden12012@gmail.com
+<!--  
 **Eden-Ismah-Moshe/Eden-Ismah-Moshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
