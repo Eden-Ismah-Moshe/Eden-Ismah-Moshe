@@ -24,7 +24,7 @@ Over the past year, I’ve been working as a **Full-Stack Developer**, creating 
   📧 **Email:** [eden12012@gmail.com](mailto:eden12012@gmail.com)  
   💼 **LinkedIn:** [https://www.linkedin.com/in/edenim/](https://www.linkedin.com/in/edenim/)
 
-⭐ *“Keep pushing forward, one commit at a time.”*
+ *“Keep pushing forward, one commit at a time.”*
 
 <!--  
 **Eden-Ismah-Moshe/Eden-Ismah-Moshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
