@@ -6,20 +6,20 @@
 Over the past year, I’ve been working as a **Full-Stack Developer**, creating modern, responsive, and dynamic products using both frontend and backend technologies.
 
 
-🛠️ Tech Stack & Skills:
+#### 🛠️ Tech Stack & Skills:
 
   React, Vue, JavaScript, Node.js, Next.js, MongoDB, PostgreSQL.
 
 
 
-🚀 What I'm Up To
+#### 🚀 What I'm Up To:
 
 - 🔭 Currently working on a **cool project**.  
 - 🌱 Constantly learning and improving my skills in **modern development**.  
 - 💡 I love solving real-world problems through clean code and creative solutions.  
 
 
-📫 Get in Touch
+#### 📫 Get in Touch:
 
   📧 **Email:** [eden12012@gmail.com](mailto:eden12012@gmail.com)  
   💼 **LinkedIn:** [https://www.linkedin.com/in/edenim/](https://www.linkedin.com/in/edenim/)
